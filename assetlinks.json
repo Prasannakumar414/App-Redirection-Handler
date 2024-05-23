@@ -1,0 +1,20 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.fivethirty.chores",
+        "sha256_cert_fingerprints":
+          ["31:41:FF:C1:EC:02:F1:12:3E:D0:AC:6D:C1:A1:9C:B5:90:6E:3C:F8:58:B0:90:E7:EB:5D:80:BB:44:66:12:4A"]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.apxor.paymate",
+        "sha256_cert_fingerprints":
+        ["31:41:FF:C1:EC:02:F1:12:3E:D0:AC:6D:C1:A1:9C:B5:90:6E:3C:F8:58:B0:90:E7:EB:5D:80:BB:44:66:12:4A"]
+      }
+    }
+  ]
